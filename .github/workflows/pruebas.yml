@@ -82,4 +82,4 @@ jobs:
 
           push: true
 
-          tags: ghcr.io/ElenaBarrioMaceira/tos:latest
+          tags: ghcr.io/elenabarriomaceira/tos:latest
